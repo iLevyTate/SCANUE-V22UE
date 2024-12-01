@@ -1,11 +1,7 @@
 # SCANUE-V22UE
 
-SCANUE-V22UE is an advanced AI chat interface that allows users to interact with various AI agents. This project leverages cutting-edge natural language processing technologies to provide intelligent and context-aware responses.
-
 ## Key Features
 
-- **Multiple AI Agent Types**: Interact with different AI agents, including PFC and General types.
-- **Real-time Conversations**: Engage in real-time chat with AI.
 - **Dark Mode**: Switch between light and dark themes for comfortable viewing.
 - **Emoji Support**: Use emojis for expressive communication.
 - **Feedback System**: Provide feedback for continuous improvement of AI responses.
